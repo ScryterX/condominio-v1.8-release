@@ -1,4 +1,4 @@
-package com.controle.condominio.dtos.security;
+package com.controle.condominio.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
